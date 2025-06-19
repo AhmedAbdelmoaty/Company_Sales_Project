@@ -3,7 +3,7 @@
 This project focuses on analyzing company sales data to understand monthly sales trends and customer behavior.
 
 ## Data
-- Sales data from Excel file `company_data.xlsx`.
+- Sales data from CSV file `company_data.csv`.
 - Analysis and visualization done in `CompanySales.ipynb`.
 
 ## Analysis Highlights
